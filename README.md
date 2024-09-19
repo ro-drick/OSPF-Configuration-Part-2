@@ -1,7 +1,10 @@
-## README: OSPF Packet Tracer Lab
+## OSPF Packet Tracer Lab
 
 ### 1. **Network Diagram Overview**
 This lab configures OSPF (Open Shortest Path First) on a network consisting of four routers (R1, R2, R3, R4), one switch (SW1), and a PC (PC1). The goal is to ensure routing via OSPF, advertise a default route using an ASBR (Autonomous System Boundary Router), and configure loopback interfaces.
+
+<img src= "https://github.com/ro-drick/OSPF-Configuration-Part-2/blob/main/ospf-2.PNG">
+
 #### Objectives:
 1. Configure the appropriate hostnames and IP addresses on each device.  Enable router interfaces.
     (You don't have to configure ISPR1)
